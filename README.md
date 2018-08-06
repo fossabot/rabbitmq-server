@@ -1,4 +1,6 @@
 # RabbitMQ Server
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Frabbitmq-server.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Frabbitmq-server?ref=badge_shield)
+
 
 [RabbitMQ](https://rabbitmq.com) is a [feature rich](https://rabbitmq.com/documentation.html), multi-protocol messaging broker. It supports:
 
@@ -38,6 +40,9 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) and our [development process overview](
 
 RabbitMQ server is [licensed under the MPL 1.1](LICENSE-MPL-RabbitMQ).
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Frabbitmq-server.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Frabbitmq-server?ref=badge_large)
 
 ## Building From Source and Packaging
 
